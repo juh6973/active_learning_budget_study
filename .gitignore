@@ -226,6 +226,7 @@ __marimo__/
 
 # Data
 *.npz
+*.zip
 
 # Settings
 **/settings.json

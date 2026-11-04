@@ -236,3 +236,6 @@ results/
 
 # Latex files
 *.tex
+
+# Desktop files
+.DS_Store
